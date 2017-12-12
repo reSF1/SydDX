@@ -1,0 +1,392 @@
+[
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 877,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "debe55303ac17330f7cd578b6cc3c2bf98972d42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "22b453d6389bc6d20da66353722f3ce63130bd70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "d6a790bbd5a870e07e3c9ae65c4ae4d0e5262de8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 135,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "d3ff0c18590e593462432eca73cbe659d1dff222",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "69ea2172ac9d677d4dbc2c738a04b02d4e02bc19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDX.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/aura/SydDX/SydDXRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "b7658485f526fe761a49290658bfec389b25b0d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/flexipages/SydDX_Demo.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/flexipages/SydDX_Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 704,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "93e6b8a73daa75ad916f3a8c176bf4e2c55325d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17104,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "072bd243af6e97425b0ccb49911b3861ebcfef28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4406,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "0723ce4ae28c2a06feeaf3dc16ae3fd3d56576aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4406,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "0723ce4ae28c2a06feeaf3dc16ae3fd3d56576aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4744,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "a195750c08ba8a86dcba2466b71ad14f26ef9255",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "13471304cecd6ee4c5b7897dcbce46ff1e1a849d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/tabs/SydDX_Demo.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX/force-app/main/default/tabs/SydDX_Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 316,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "8d6fa6dd62493946901fcb0d0328f34a9c99c362",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/SydDX",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/SydDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1513075844000,
+            "changeTime": 1513075844000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
